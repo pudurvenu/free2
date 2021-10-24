@@ -1,0 +1,30 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+</style>
+
+
+.set1{
+background-color: #070E27;
+}
+
+.col-md-6:hover{
+color: #ffffff;
+}
+
+
+.lh-base{
+font-size: 25px;
+
+font-family: 'Poppins', sans-serif;
+}
+
+
+
+.mb-0{
+
+font-family: 'Poppins', sans-serif;
+}
+
+.btn:hover{
+style="background-color:black"
+}
